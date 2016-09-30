@@ -1,2 +1,2 @@
 # DDSProject 
-Automatic Street Light Controller using multisim
+Automatic Street Light Controller using Multisim
